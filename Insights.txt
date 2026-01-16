@@ -1,0 +1,17 @@
+INSIGHTS – TASK 2 (Excel Pivot Analysis)
+
+
+
+
+1. Phones is the highest-performing sub-category, contributing approximately 327,782 in total sales, making it the strongest revenue driver in the dataset.
+
+2. Chairs and Storage also generate high sales volumes (over 200,000 each), indicating strong demand in furniture-related products alongside technology items.
+
+3. Several sub-categories such as Fasteners, Labels, and Envelopes contribute very low sales (below 20,000), suggesting minimal business impact compared to top-performing categories.
+
+4. When filtered using slicers, the West region combined with the Home Office segment and Technology category shows concentrated sales performance, indicating region- and segment-specific demand patterns.
+
+5. Overall total sales across all sub-categories amount to approximately 2.26 million, providing a clear view of the overall business scale and revenue distribution.
+
+Note:
+The provided dataset did not include a Profit column. Therefore, Profit Margin analysis could not be performed. Sales-based pivot analysis, segmentation, and interactive dashboards were completed using the available data.
